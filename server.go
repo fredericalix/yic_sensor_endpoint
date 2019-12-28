@@ -29,7 +29,7 @@ import (
 	"github.com/spf13/viper"
 	"github.com/streadway/amqp"
 
-	"github.com/youritcity/auth"
+	auth "github.com/fredericalix/yic_auth"
 
 	_ "net/http/pprof"
 )
